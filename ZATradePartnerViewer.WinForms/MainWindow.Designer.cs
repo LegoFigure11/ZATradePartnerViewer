@@ -151,7 +151,7 @@ namespace ZATradePartnerViewer.WinForms;
         L_Theme.AutoSize = true;
         L_Theme.Location = new Point(12, 19);
         L_Theme.Name = "L_Theme";
-        L_Theme.Size = new Size(46, 15);
+        L_Theme.Size = new Size(47, 15);
         L_Theme.TabIndex = 179;
         L_Theme.Text = "Theme:";
         // 
@@ -190,7 +190,7 @@ namespace ZATradePartnerViewer.WinForms;
         L_PartnerOT.AutoSize = true;
         L_PartnerOT.Location = new Point(239, 9);
         L_PartnerOT.Name = "L_PartnerOT";
-        L_PartnerOT.Size = new Size(96, 15);
+        L_PartnerOT.Size = new Size(98, 15);
         L_PartnerOT.TabIndex = 129;
         L_PartnerOT.Text = "Trade Partner OT:";
         L_PartnerOT.TextAlign = ContentAlignment.MiddleRight;
@@ -210,7 +210,7 @@ namespace ZATradePartnerViewer.WinForms;
         L_NID.AutoSize = true;
         L_NID.Location = new Point(233, 37);
         L_NID.Name = "L_NID";
-        L_NID.Size = new Size(102, 15);
+        L_NID.Size = new Size(103, 15);
         L_NID.TabIndex = 131;
         L_NID.Text = "Trade Partner NID:";
         L_NID.TextAlign = ContentAlignment.MiddleRight;
@@ -228,11 +228,11 @@ namespace ZATradePartnerViewer.WinForms;
         // L_PartnerTID
         // 
         L_PartnerTID.AutoSize = true;
-        L_PartnerTID.Location = new Point(273, 65);
+        L_PartnerTID.Location = new Point(278, 65);
         L_PartnerTID.Name = "L_PartnerTID";
-        L_PartnerTID.Size = new Size(62, 15);
+        L_PartnerTID.Size = new Size(57, 15);
         L_PartnerTID.TabIndex = 133;
-        L_PartnerTID.Text = "Trader TID:";
+        L_PartnerTID.Text = "Trader ID:";
         L_PartnerTID.TextAlign = ContentAlignment.MiddleRight;
         // 
         // B_Copy
