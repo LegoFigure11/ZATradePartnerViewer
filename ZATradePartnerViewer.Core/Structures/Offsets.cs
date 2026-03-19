@@ -3,7 +3,7 @@ namespace ZATradePartnerViewer.Core.Structures;
 public abstract class Offsets
 {
     public const string LegendsZAID                                    = "0100F43008C44000";
-    public const string LegendsZAGameVersion                           = "2.0.1";
+    public const string LegendsZAGameVersion                           = "2.0.2";
 
     public static IReadOnlyList<long> PlayerMyStatusPointer   { get; } = [0x610A710, 0xA0, 0x40];
 
