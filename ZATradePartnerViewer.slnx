@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="ZATradePartnerViewer.Core/ZATradePartnerViewer.Core.csproj">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="ZATradePartnerViewer.WinForms/ZATradePartnerViewer.WinForms.csproj">
+    <BuildDependency Project="ZATradePartnerViewer.Core/ZATradePartnerViewer.Core.csproj" />
+    <Platform Project="x64" />
+  </Project>
+</Solution>
